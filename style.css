@@ -1,0 +1,39 @@
+.wrapper {
+    margin-left: 20%;
+    margin-right: 15%;
+    margin-top: 80px;
+}
+header {
+    text-align: center;
+    line-height: 0.6;
+}
+.authors {
+    font-size: 20px;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+.underline {
+    text-decoration: underline;
+}
+.align-center {
+    text-align: center;
+}
+.align-right {
+    text-align: right;
+}
+.image_1 {
+    float:left;
+    height: 40%;
+    width: 40%;
+    margin-right: 20px;
+}
+.image_2 {
+    margin-left: 20%;
+    height: 50%;
+    width: 50%;
+}
+
